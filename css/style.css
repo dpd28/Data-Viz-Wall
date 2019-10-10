@@ -1,0 +1,294 @@
+.bg-rect {
+  position: absolute;
+  width: 514px;
+  height: 511px;
+  left: 349px;
+  top: 126px;
+}
+
+.cover-large-circle{
+  position: absolute;
+  left: 218px;
+  top: 210px;
+}
+
+.logo{
+  position: absolute;
+  width: 168.53px;
+  height: 54px;
+  left: 45.71px;
+  top: 92.6px;
+}
+
+.cover-line{
+  position: absolute;
+  left: 487px;
+  top: 369px;
+
+
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: 300;
+  font-size: 52px;
+  line-height: 52px;
+  /* or 100% */
+
+  text-transform: uppercase;
+
+  color: #000000;
+
+}
+.cover-btn{
+  position: absolute;
+  width: 160px;
+  height: 122px;
+  left: 902px;
+  top: 631px;
+  cursor: pointer;
+}
+
+.cover-btn-text{
+  position: absolute;
+  width: 99px;
+  height: 63px;
+  left: 963px;
+  top: 662px;
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 20px;
+  cursor: pointer;
+  /* or 111% */
+  display: flex;
+  align-items: center;
+  text-transform: uppercase;
+  color: #000000;
+}
+
+.txt-cloud{
+  position: absolute;
+  width: 1334px;
+  height: 760px;
+  left: 343px;
+  top: 169px;
+  overflow-x: scroll;
+}
+
+.nav-side{
+  position: absolute;
+  width: 291px;
+  height: 762px;
+  left: 0px;
+  top: 51px;
+
+  background: #E8EEF1;
+  opacity: 0.9;
+}
+
+/* Explore by */
+
+.explore{
+position: absolute;
+width: 223px;
+height: 61px;
+left: 46px;
+top: 216px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: bold;
+font-size: 24px;
+line-height: 27px;
+/* or 112% */
+
+text-transform: uppercase;
+
+color: #000000;
+}
+
+
+/* Artifacts */
+
+.artifacts{
+position: absolute;
+width: 221px;
+height: 37px;
+left: 48px;
+top: 296px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 29px;
+letter-spacing: 0.01em;
+text-transform: uppercase;
+
+color: #3F6B78;
+}
+
+
+/* Geography */
+
+.geo{
+position: absolute;
+width: 221px;
+height: 37px;
+left: 48px;
+top: 350px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: bold;
+font-size: 27px;
+line-height: 33px;
+letter-spacing: 0.01em;
+text-transform: uppercase;
+
+color: #EF5E0C;
+}
+
+
+/* Religion */
+
+.religion{
+position: absolute;
+width: 221px;
+height: 37px;
+left: 48px;
+top: 404px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 29px;
+letter-spacing: 0.01em;
+text-transform: uppercase;
+
+color: #3F6B78;
+}
+
+
+/* Color */
+
+.color{
+position: absolute;
+width: 221px;
+height: 37px;
+left: 48px;
+top: 458px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 29px;
+letter-spacing: 0.01em;
+text-transform: uppercase;
+
+color: #3F6B78;
+}
+
+
+/* Medium */
+
+.medium{
+position: absolute;
+width: 221px;
+height: 37px;
+left: 48px;
+top: 512px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 29px;
+letter-spacing: 0.01em;
+text-transform: uppercase;
+
+color: #3F6B78;
+}
+
+/* Mood */
+
+.mood{
+position: absolute;
+width: 221px;
+height: 37px;
+left: 48px;
+top: 566px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 29px;
+letter-spacing: 0.01em;
+text-transform: uppercase;
+
+color: #3F6B78;
+}
+
+
+/* Size */
+
+.size{
+position: absolute;
+width: 221px;
+height: 37px;
+left: 48px;
+top: 620px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 29px;
+letter-spacing: 0.01em;
+text-transform: uppercase;
+
+color: #3F6B78;
+}
+
+
+/* Year */
+
+.year{
+position: absolute;
+width: 221px;
+height: 37px;
+left: 48px;
+top: 674px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 29px;
+letter-spacing: 0.01em;
+text-transform: uppercase;
+
+color: #3F6B78;
+}
+
+
+.surpriseme {
+position: absolute;
+width: 221px;
+height: 37px;
+left: 48px;
+top: 729px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 29px;
+letter-spacing: 0.01em;
+text-transform: uppercase;
+
+color: #3F6B78;
+}
